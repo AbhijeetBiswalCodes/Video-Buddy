@@ -53,8 +53,7 @@ a {
   font-weight: bold !important;
   text-transform: capitalize;
   display: flex;
-  align-items: center;
-  justify-content: start;
+  align-items: center; 
   cursor:pointer;
   background: transparent;
   outline: none;
