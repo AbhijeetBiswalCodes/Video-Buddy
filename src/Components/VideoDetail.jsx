@@ -65,7 +65,7 @@ const VideoDetail = () => {
               px={2}
             >
               <Link>
-                <CardMedia
+                {/* <CardMedia
                   image={
                     channelDetail?.snippet?.thumbnails?.high?.url || demoProfilePicture
                   }
@@ -77,7 +77,7 @@ const VideoDetail = () => {
                     mb: 2,
                     border: "1px solid #e3e3e3",
                   }}
-                />
+                /> */}
                 <Typography
                   variant={{ sm: "subtitle1", md: "h6" }}
                   color="#fff"
